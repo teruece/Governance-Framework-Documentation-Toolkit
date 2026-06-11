@@ -1,24 +1,32 @@
-# Governance-Framework-Documentation-Toolkit
+# Governance, Framework, Documentation Toolkit
 
-This repository contains a collection of professional governance, reporting and business analysis documentation templates designed to support structured delivery across transformation, operations, data, technology and programme environments.
 
-The toolkit demonstrates how clear documentation, standardised processes, defined ownership and consistent reporting can improve visibility, control and decision-making across multiple teams and stakeholders.
+This repository contains a collection of governance, reporting, analytics, process improvement and data solution artefacts based on the type of work I have delivered across previous roles in data analytics, technical operations, fault control, quality assurance, PMO and transformation environments.
 
-## Included Documentation
+The purpose of this portfolio is to demonstrate how I approach structured delivery, data visibility, stakeholder reporting, operational control and data-driven process improvement. The documents show how I have supported teams by improving reporting frameworks, defining KPIs, creating governance routines, tracking risks and dependencies, mapping processes, documenting requirements and turning operational data into actionable insight.
 
-* RAID and dependency management framework
-* Process mapping and optimisation templates
-* KPI dictionary and metric definition templates
-* Reporting framework documentation
-* Dashboard requirement templates
+The materials in this repository are sample and anonymised versions of frameworks, templates and documentation I have used or developed in previous roles. They are designed to show my working style, documentation discipline and ability to bridge business, technical, data, analytics and governance teams.
+
+## Areas Covered
+
+* Data governance and reporting frameworks
+* KPI dictionary and metric definitions
+* Power BI dashboard requirements
+* Data source mapping and single source of truth design
+* Data quality rules and exception monitoring
+* RAID and dependency management
+* Governance cadence and stakeholder reporting
+* Process mapping and optimisation
+* Business requirements and technical specifications
 * UAT planning and acceptance criteria
-* Backlog and pipeline management structure
-* Governance cadence and meeting rhythm
-* Decision log and action tracker templates
-* Stakeholder reporting templates
+* Backlog and pipeline tracking
+* Decision logs and action trackers
+* Operational issue and risk visibility
 
-## Purpose
+## Professional Context
 
-The purpose of this repository is to demonstrate practical documentation and governance artefacts that can be applied across roles such as Technical Business Analyst, Business Analyst, PMO Analyst, Project Manager, Data Analyst, Governance Analyst, Operations Analyst and Transformation Consultant.
+My background includes work across data analytics, business intelligence, operational reporting, technical operations, data centre and infrastructure-related environments, quality assurance, fault control, PMO support and business transformation.
 
-The documents are designed to show how structured frameworks can help teams manage risks, track dependencies, define metrics, improve processes, support delivery and provide clear reporting to senior stakeholders.
+In these roles, I have worked with stakeholders to improve data visibility, standardise reporting, investigate performance issues, define KPIs, document processes, identify data quality gaps, support dashboard development and create practical governance controls.
+
+This repository reflects the kind of structured artefacts I can bring into roles such as Technical Business Analyst, Data Analyst, BI Analyst, Data Governance Analyst, Data Solutions Analyst, PMO Analyst, Governance Analyst, Operations Analyst, Project Manager or Transformation Consultant.
